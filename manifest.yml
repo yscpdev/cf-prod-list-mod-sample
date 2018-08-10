@@ -3,7 +3,7 @@ applications:
 # Application
 - name: product-list
   instances: 1
-  memory: 896M
+  memory: 1024MM
   host: product-list-123123123
   path: target/product-list.jar
   buildpack: https://github.com/cloudfoundry/java-buildpack.git#v4.3
