@@ -41,3 +41,6 @@ target/
 
 ### Mac ###
 .DS_Store
+
+### Secrets ###
+secrets/
